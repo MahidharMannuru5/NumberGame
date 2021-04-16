@@ -1,6 +1,6 @@
 #include  <stdio.h>
 
-#include <conio.h>
+#include <curses.h>
 
 //Compiler version gcc  6.3.0
 
